@@ -1,4 +1,4 @@
-import { CellState, Field, Cell } from './types'
+import { CellState, Field, Cell } from '../types'
 
 import { incrementNeighbours } from './CellsManipulator'
 

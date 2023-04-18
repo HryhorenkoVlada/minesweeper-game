@@ -1,4 +1,4 @@
-import { Cell, Coords, Field } from './types'
+import { Cell, Coords, Field } from '../types'
 
 export const getNeighboursItems = ([y, x]: Coords): Record<
   string,

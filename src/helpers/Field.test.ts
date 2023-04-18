@@ -1,6 +1,6 @@
 import { emptyFieldGenerator, fieldGenerator } from './Field'
 
-import { CellState } from './types'
+import { CellState } from '../types'
 
 const { empty, hidden, bomb } = CellState
 

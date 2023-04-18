@@ -3,7 +3,7 @@ import {
   incrementNeighbours,
   checkItemInField,
 } from './CellsManipulator'
-import { CellState, Field } from './types'
+import { CellState, Field } from '../types'
 
 const { empty, hidden, bomb } = CellState
 
