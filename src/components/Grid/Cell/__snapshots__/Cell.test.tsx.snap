@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell component check Closed Frame renders correct 1`] = `
+<DocumentFragment>
+  <div
+    class="css-8jxsla"
+  />
+</DocumentFragment>
+`;
+
+exports[`Cell component check Empty cell renders correct 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1l2qare"
+    data-testid="1,1"
+    role="cell"
+  >
+    0
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Cell component check Hidden cell renders correct 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1tt7j02"
+    data-testid="1,1"
+    role="cell"
+  >
+    10
+  </div>
+</DocumentFragment>
+`;
